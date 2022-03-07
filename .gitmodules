@@ -1,4 +1,4 @@
 [submodule "src/prestashop"]
 	path = src/prestashop
 	url = git@github.com:MeKeyCool/PrestaShop.git
-	branch = develop
+	branch = 1.7.8.x
